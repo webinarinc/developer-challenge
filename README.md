@@ -1,6 +1,6 @@
 # Webinarinc Developer Challenge
 
-## The assignment
+## Challenge description
 
 ![](https://api.chucknorris.io/img/chucknorris_logo_coloured_small.png)
 
@@ -16,6 +16,11 @@ which would allow:
 - listing all the categories
 - navigating into a category and showing a random joke in that category.
 - searching through all the jokes using free text search.
+
+## Instructions
+    1. Read the "Challenge description" on how to deal with the challenge.
+    2. Create a repository on your Github profile and push your solution there.
+    3. Email your repository link to us and we will review your solution ASAP.
 
 ## Technical assumptions
 
